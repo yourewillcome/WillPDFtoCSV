@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WillPDFtoCSV")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eb04fc344e19d5cb2aad74b4823895167d59a781")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c75d2d3d9d8c505d12c0fa79f894283cffa1ad40")]
 [assembly: System.Reflection.AssemblyProductAttribute("WillPDFtoCSV")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WillPDFtoCSV")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
